@@ -8,7 +8,7 @@ const App = () => {
       <Tetris />
     </div>
   )
-};
+}; 
 
 export default App
 
